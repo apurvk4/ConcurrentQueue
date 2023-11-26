@@ -1,5 +1,5 @@
 /*
- * ConcurrentQueue - A C++ template class for a thread-safe concurrent queue. It's very simple you write it yourself in an hour.
+ * ConcurrentQueue - A C++ template class for a thread-safe concurrent queue. It's very simple you can write it yourself in an hour.
  * Author: Apurv Kumar
  *
  * This program is free software: you can redistribute it and/or modify
